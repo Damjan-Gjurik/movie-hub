@@ -41,7 +41,7 @@ Movie Hub е веб апликација за управување и орган
 4. Импортирај ја базата `moviehub.sql` во phpMyAdmin.
 5. Отвори:
 
-http://localhost/Movie hub
+http://localhost/Moviehub
 
 ---
 
