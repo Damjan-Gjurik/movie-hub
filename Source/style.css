@@ -112,6 +112,15 @@ body {
     border-radius:8px;
     font-weight:bold;
 }
+.detail-watchlist-btn{
+    background:#f5c518;
+    color:#111;
+    width:80px;
+    text-decoration:none;
+    padding:8px 12px;
+    border-radius:8px;
+    font-weight:bold;
+}
 .home-btn:hover, #menuBtn:hover{
     background:#ddb100 !important;
     color:#111 !important;
