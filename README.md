@@ -84,7 +84,8 @@ movie-hub
 │   ├── movie-details.png
 │   ├── my-ratings.png
 │   ├── my-watchlist.png
-│   └── admin-panel.png
+│   ├── admin-panel.png
+|   └── Statistika.png
 │
 ├── Source/
 │   ├── index.php
