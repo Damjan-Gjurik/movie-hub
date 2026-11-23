@@ -1,22 +1,22 @@
 # 🎬 Movie Hub
 
-Movie Hub е веб апликација за управување и организирање на филмови и серии. Проектот е изработен како личен проект со цел практична примена и надградување на знаењата од веб програмирање.
+Movie hub is a web application for managing and organizing movies and shows. The project is made as a personal project in order to practically improve the knowledge of web programming. 
 
 ---
 
-## 📌 Главни функции
+## 📌 Main features
 
-- Регистрација и најава на корисници
-- Пребарување на филмови и серии
-- Детален приказ на информации за филмови
-- Омилени филмови
-- Кориснички профил
-- Администраторски панел
-- Додавање, измена и бришење на содржини
+- Users registration and login
+- Searching movies and TV Shows
+- Detailed information about every movie
+- Favorite movies
+- Users profile
+- Admin panel
+- Adding, editing and deleting content
 
 ---
 
-## 🛠 Користени технологии
+## 🛠 Used Technologies
 
 - HTML5
 - CSS3
@@ -59,13 +59,13 @@ Movie Hub е веб апликација за управување и орган
 
 ---
 
-## ⚙️ Инсталација
+## ⚙️ Installation
 
-1. Копирај го репозиториумот.
-2. Копирај ја папката во `xampp/htdocs`.
-3. Стартувај ги Apache и MySQL преку XAMPP.
-4. Импортирај ја базата `moviehub.sql` во phpMyAdmin.
-5. Отвори:
+1. Copy the repository.
+2. Paste the repository in the folder `xampp/htdocs`.
+3. Start Apache and MySQL through XAMPP.
+4. Import the database `moviehub.sql` in phpMyAdmin.
+5. Open:
 
 http://localhost/Moviehub
 
@@ -116,8 +116,7 @@ movie-hub
 │   ├── admin.css
 │   └── settings.css
 │
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ## 👨‍💻 Автор
