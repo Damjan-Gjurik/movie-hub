@@ -119,6 +119,6 @@ movie-hub
 └── README.md
 ```
 
-## 👨‍💻 Автор
+## 👨‍💻 Author
 
 Damjan Gjurik
